@@ -4,3 +4,6 @@ target/
 **/password.txt
 **/*.jar
 *war
+*release:wq
+*release
+*release2
